@@ -22,5 +22,5 @@ time permits, I will think a better way to make the mapping between javascript
 objects and python objects more transparent. It is quite tricky to debug if any
 simple mistake is in the code.
 
-
-
+![alt text][logo]
+[logo]: https://raw.github.com/bigsnarfdude/ipython_d3_mashup/master/Screen%20Shot%202012-12-30%20at%2012.50.21%20PM.png "Word_Ladder example d3.js and iPython Notebook Mashup Screenshot"
